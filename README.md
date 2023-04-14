@@ -1,5 +1,5 @@
-# FastChat
-An open platform for training, serving, and evaluating large language model based chatbots.
+# IdrLoremIpsum FastChat Fork
+_This will freeze FastChat version to ensure development stability_. An open platform for training, serving, and evaluating large language model based chatbots.
 
 ## Release
 
